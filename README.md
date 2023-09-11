@@ -5,9 +5,14 @@ The U.S. Superstore dataset serves as a valuable resource for addressing six key
 Problem Statement:
 Using the dataset, the six key questions generated were;
 
-The highest profit generated furnoture, Office supplies and technology Category;
+The highest profit generated furnoture, Office supplies and technology Categor.
+
 The Total sales of 10 top State that generated the highest sales in Furniture, office supplies and technology categories;
+
 The top 10 state with maximun sales;
+
 The highest discounts in consumer, corporate, and home office segment;
+
 The Ship mode with the highest sale in consumer, corporate and home office segment.
+
 The sum profits generated in consumer, corporate, and home office segments.
