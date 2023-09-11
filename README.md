@@ -28,4 +28,3 @@ Using the dataset, the six key questions generated were;
 ![Pivot Project 5 sum sale by ship mode on Segmen](https://github.com/Tonyigba/Project-on-Data-cleaning-Analysis-and-Visualiztaion/assets/143624967/abeec8f4-6d46-4af9-a67b-1c56a3ab1416)
 
 ![Pivot Project 6 Sum Profit by Segment](https://github.com/Tonyigba/Project-on-Data-cleaning-Analysis-and-Visualiztaion/assets/143624967/d10f6ec4-4471-4671-ba60-5e38ecfa336c)
-![Pivot Project 6 Sum Profit by Segment](https://github.com/Tonyigba/Project-on-Data-cleaning-Analysis-and-Visualiztaion/assets/143624967/de266840-ab03-423c-97ff-018dc0568783)
